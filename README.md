@@ -1,7 +1,7 @@
 # new-mind 
 ## update the markdown 2nd header 
 
- **bold content**
+ **bold content :EMOJICODE:**
 
  *Italic content*
 
@@ -40,4 +40,4 @@ printf("Hello to the funny and crazy world".\n);
 -[x] checked off list 
 -[] not checked off list
 
-:EMOJICODE:
+
