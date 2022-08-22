@@ -31,6 +31,11 @@
 
 ``` c
 printf("Hello to the funny and crazy world".\n);
+int a,b,c;
+c = a *b;
+printf("Enter two numbers.\n);
+scanf("%d%d", &a, &b);
+printf("%d, c);
 ```
 
 
